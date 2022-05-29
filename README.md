@@ -23,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurfleck1828&show_icons=true&locale=en&layout=compact" alt="arthurfleck1828" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurfleck1828&show_icons=true&locale=en" alt="arthurfleck1828" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARTHURFLECK1828)](https://git.io/streak-stats)
